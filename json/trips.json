@@ -1,13 +1,49 @@
 [{
-  "id": "c7717870-1472-4512-8167-da3edae3c013"
+  "id": "c7717870-1472-4512-8167-da3edae3c013",
+  "type": "flight",
+  "startDate": "2019-12-30",
+  "endDate": "2020-01-03",
+  "destination": "San Francisco, CA",
+  "price": 212.55,
+  "cabin": "Economy Plus",
+  "airline": "United"
+
 },{
-  "id": "75bdb025-15d3-43f8-a764-7e2253f788a1"
+  "id": "75bdb025-15d3-43f8-a764-7e2253f788a1",
+  "type": "hotel",
+  "startDate": "2019-12-30",
+  "endDate": "2020-01-03",
+  "destination": "San Francisco, CA",
+  "price": 1501.98,
+  "room": "1 king bed",
+  "hotel": "Hyatt Regency San Francisco"
 },{
-  "id": "38ad1a0e-abb9-438f-a57c-5e09cf66ce29"
+  "id": "38ad1a0e-abb9-438f-a57c-5e09cf66ce29",
+  "type": "flight",
+  "startDate": "2019-11-05",
+  "endDate": "2020-11-07",
+  "destination": "Denver, CO",
+  "price": 322.1,
+  "cabin": "Economy",
+  "airline": "Delta"
 },{
-  "id": "cc8c2fab-7330-4ae7-bcb2-49e8f008e567"
+  "id": "cc8c2fab-7330-4ae7-bcb2-49e8f008e567",
+  "type": "flight",
+  "startDate": "2019-10-27",
+  "endDate": "2020-10-29",
+  "destination": "Chicago, IL",
+  "price": 400.0,
+  "cabin": "Economy Plus",
+  "airline": "United"
 },{
-  "id": "870c29ee-689f-4148-bc58-fdc06433d225"
+  "id": "870c29ee-689f-4148-bc58-fdc06433d225",
+  "type": "hotel",
+  "startDate": "2019-10-27",
+  "endDate": "2020-10-29",
+  "destination": "Chicago, IL",
+  "price": 734.34,
+  "room":"1 king bed",
+  "hotel": "Hyatt Regency Chicago"
 },{
   "id": "9972ebd8-85ae-4246-b324-510919d75c3c"
 },{
