@@ -1,4 +1,21 @@
 [{
+  "id": "9972ebd8-85ae-4246-b324-510919d75c3c",
+  "type": "flight",
+  "startDate": "2020-05-05",
+  "endDate": "2020-05-14",
+  "destination": "Paris, France",
+  "price": 1079.0,
+  "cabin": "Premium Economy",
+  "airline": "Air France"
+},{
+  "id": "d25e44a2-2680-46c8-bca5-8c4981aa6138",
+  "type": "hotel",
+  "startDate": "2020-05-05",
+  "endDate": "2020-05-14",
+  "price": 4359.0,
+  "room": "1 king bed",
+  "hotel": "Park Hyatt Paris-Vendome"
+},{
   "id": "c7717870-1472-4512-8167-da3edae3c013",
   "type": "flight",
   "startDate": "2019-12-30",
@@ -7,7 +24,6 @@
   "price": 212.55,
   "cabin": "Economy Plus",
   "airline": "United"
-
 },{
   "id": "75bdb025-15d3-43f8-a764-7e2253f788a1",
   "type": "hotel",
@@ -45,13 +61,30 @@
   "room":"1 king bed",
   "hotel": "Hyatt Regency Chicago"
 },{
-  "id": "9972ebd8-85ae-4246-b324-510919d75c3c"
+  "id": "e32f85e3-2050-4d35-94ff-3221c62743f6",
+  "type": "flight",
+  "startDate": "2019-09-26",
+  "endDate": "2020-09-26",
+  "destination": "San Diego, CA",
+  "price": 175.01,
+  "cabin": "Economy Plus",
+  "airline": "United"
 },{
-  "id": "d25e44a2-2680-46c8-bca5-8c4981aa6138"
+  "id": "d46cbbbf-84cd-49b8-9e6f-5037328a1fac",
+  "type": "hotel",
+  "startDate": "2019-09-12",
+  "endDate": "2020-09-16",
+  "destination": "Long Beach, CA",
+  "price": 542.34,
+  "room":"2 double beds",
+  "hotel": "Hilton Long Beach"
 },{
-  "id": "e32f85e3-2050-4d35-94ff-3221c62743f6"
-},{
-  "id": "d72d9da8-fef7-4e09-baa6-8478f04e6cf2"
-},{
-  "id": "d46cbbbf-84cd-49b8-9e6f-5037328a1fac"
+  "id": "d72d9da8-fef7-4e09-baa6-8478f04e6cf2",
+  "type": "flight",
+  "startDate": "2019-07-16",
+  "endDate": "2020-07-18",
+  "destination": "Las Vegas, NV",
+  "price": 89.03,
+  "cabin": "Economy",
+  "airline": "Southwest"
 }]
